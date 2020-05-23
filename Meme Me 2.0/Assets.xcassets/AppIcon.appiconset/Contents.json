@@ -1,21 +1,25 @@
 {
   "images" : [
     {
+      "filename" : "MemeGenerator_120 copy-1.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "MemeGenerator_120 copy-2.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
     },
     {
+      "filename" : "MemeGenerator_120 copy.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "MemeGenerator_120 copy-3.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
@@ -31,11 +35,13 @@
       "size" : "40x40"
     },
     {
+      "filename" : "MemeGenerator_180 copy-1.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "MemeGenerator_180 copy.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
